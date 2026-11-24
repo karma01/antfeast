@@ -1,0 +1,12 @@
+firework.webp
+size:449,372
+filter:Linear,Linear
+scale:0.8
+fx_glow
+bounds:2,2,368,368
+offsets:21,21,410,410
+paper_work
+bounds:372,272,21,21
+particle_star
+bounds:372,295,75,75
+offsets:2,2,79,79
